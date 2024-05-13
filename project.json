@@ -12,7 +12,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "24.4.0.0",
-  "projectVersion": "1.0.0",
+  "projectVersion": "1.0.169287060",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -43,7 +43,7 @@
     },
     "fileInfoCollection": [
       {
-        "editingStatus": "InProgress",
+        "editingStatus": "Publishable",
         "testCaseId": "62f3ce5f-cf3c-4e94-9dea-bc493485319d",
         "testCaseType": "TestCase",
         "fileName": "BL_Show BOM Item substitutes for selected Parts.xaml"
